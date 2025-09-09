@@ -1,7 +1,7 @@
 ## Hi there 👋
 My Name Is Arta my nickname is ArtaG31
 # 💫 About Me:
-I’m a Beginner developer and a Gamers who loves trying out different tech stacks and messing around with new tools. I’m also really into IoT and enjoy building stuff that brings software and hardware together.<br>I'm happy to contribute with skill that i got
+I am a beginner developer and a gamer. I like to search for information and like to try things related to programming languages. I also like IoT and I like to create software and hardware myself or together with others.
 
 
 ## 🌐 Socials:
